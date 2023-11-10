@@ -1,0 +1,5 @@
+function talk(){
+    var know = {
+        
+    }
+}
